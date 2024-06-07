@@ -1,4 +1,5 @@
+git init
 touch zx.py
-git add .
+git add *.py
 git commit -m "commit"
 
