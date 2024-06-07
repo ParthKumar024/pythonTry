@@ -1,6 +1,0 @@
-git branch branch1
-git checkout branch1
-touch file3.txt
-git add file3
-git commit -m "add"
-
